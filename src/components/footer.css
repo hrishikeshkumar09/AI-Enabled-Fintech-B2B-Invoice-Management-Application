@@ -1,0 +1,21 @@
+.property2{
+    text-align: center;
+    margin: 30px 0;
+}
+
+.text1{
+    text-decoration: underline;
+    color: blue;
+}
+
+.text2{
+    color: whitesmoke;
+}
+
+a:focus{
+    color:blue
+}
+
+a:visited{
+    color:blue
+}
